@@ -1,0 +1,7 @@
+{
+  "name": "IUA Success - Prépa Examens",
+  "description": "Une plateforme intelligente d'aide à la préparation des examens pour les étudiants de l'IUA, intégrant un tuteur IA, des quiz générés automatiquement et un suivi de progression.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
